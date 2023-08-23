@@ -1,5 +1,5 @@
 ---
-title: 'How We Made ClassFinder'
+title: 'How We Made ClassFinder.'
 excerpt: 'A Behind the Scenes Look at the Development of ClassFinder.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2023-08-22T05:35:07.322Z'

@@ -1,5 +1,5 @@
 ---
-title: 'Your Privacy'
+title: 'Your Privacy.'
 excerpt: 'Here at ClassFinder, we take your privacy seriously.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2023-08-19T05:35:07.322Z'

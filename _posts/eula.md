@@ -1,5 +1,5 @@
 ---
-title: 'Our EULA'
+title: 'Our EULA.'
 excerpt: 'ClassFinder ("the Software") was created by the Seong Family ("the Author") and is licensed under the terms of this license.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2023-08-18T05:35:07.322Z'

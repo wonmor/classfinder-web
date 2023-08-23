@@ -11,7 +11,7 @@ const Footer = () => {
               Developed by the Seong Family.
             </h3>
 
-            <p className="text-xl mb-10">Based in Seoul, South Korea.</p>
+            <p className="text-xl mb-10">Based in Seoul, South Korea</p>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <Link

@@ -30,4 +30,4 @@ I have more than 30 years of experience in writing low-level hardware code, prim
 
 In the next coming years, I will continue maintaining the code base of this project while John is away studying in America. I also handle the business side of things within this project — communicating with user base if they are experiencing any problems.
 
-Speaking of which, if you found any bugs or errors in our app, feel free to contact me at [**cascademusicbusiness@gmail.com**]("mailto:cascademusicbusiness@gmail.com").
+Speaking of which, if you found any bugs or errors in our app, feel free to contact me at **cascademusicbusiness@gmail.com**.

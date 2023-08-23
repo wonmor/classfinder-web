@@ -36,7 +36,7 @@ This License will terminate automatically if you fail to comply with any of the 
 
 ## Governing Law
 
-This License shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions. Any legal action arising out of or relating to this License shall be brought in the state or federal courts located in the State of California.
+This License shall be governed by and construed in accordance with the laws of the South Korean government, without regard to its conflict of law provisions. Any legal action arising out of or relating to this License shall be brought in the state or federal courts located in South Korea.
 
 ## Entire Agreement
 

@@ -28,6 +28,6 @@ I must say, I am very proud of some astonishing milestones that my son has reach
 
 I have more than 30 years of experience in writing low-level hardware code, primarily in C++. I have also instructed many middle/high school students in various robotics competitions, here in South Korea.
 
-In the next coming years, I will continue maintaining the code base of this project while John is away studying in America. I also handle the business side of things within this project — communicating with user base if they are experiencing any problems.
+In the next coming years, I will continue maintaining the code base of this project while John is away studying in America. I also handle the business side of things within this project — e.g. communicating with the users if they are experiencing any problems.
 
 Speaking of which, if you found any bugs or errors in our app, feel free to contact me at **cascademusicbusiness@gmail.com**.

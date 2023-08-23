@@ -12,24 +12,13 @@ ogImage:
 
 This privacy policy outlines how we collect, use, and protect your personal information when you use our app. Please read the following policy carefully to understand our practices regarding your data and how we will treat it.
 
-## Information We Collect
-
-We may collect personal information such as your name, email address, and contact details when you register for an account or communicate with us through the app. Additionally, we may collect non-personal information such as usage data and analytics to improve our services.
-
-## How We Use Your Information
-
-We use the information we collect to:
-
-- Provide and improve our app
-- Personalize your experience
-- Communicate with you
-- Ensure the security of our services
-
-We may also use aggregated and anonymized data for analytical purposes.
-
 ## Sharing Your Information
 
 We do not sell, trade, or transfer your personal information to third parties without your consent. However, we may share your information with trusted service providers who assist us in operating our app and providing the requested services, subject to strict confidentiality obligations.
+
+## Information We Collect
+
+We may collect personal information such as your name, email address, and contact details when you register for an account or communicate with us through the app. Additionally, we may collect non-personal information such as usage data and analytics to improve our services.
 
 ## Data Security
 

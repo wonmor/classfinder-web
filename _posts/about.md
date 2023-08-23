@@ -14,7 +14,7 @@ ogImage:
 
 As of 2023/24 year, I am an incoming freshman at UC Irvine with an undeclared major. I will be primarily focusing on the studies of Aerospace Engineering, Computer Science, and Bioinformatics.
 
-When I was 15, I studied in Canada all by myself, while living with my aunt. It truly was an one-of-its-kind experience — something in which not many people would try. Born in South Korea but spent majority of my teenage years in Canada, I managed to absorb both cultures: the North American and East Asian ways of living.
+When I was 15, I studied in Canada all by myself, while living with my aunt. It truly was an one of its kind experience — something in which not many people would try. Born in South Korea but spent majority of my teenage years in Canada, I managed to absorb both cultures: the North American and East Asian ways of living.
 
 This really contributed in diversifying my knowledge and understanding in two widly distinct cultures, as well as traditions all around the world.
 

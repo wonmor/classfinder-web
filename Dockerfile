@@ -1,14 +1,15 @@
-FROM node:14.14.0 as builder
-
-COPY package.json /tmp/package.json
-RUN cd /tmp && yarn install --ignore-engines
-RUN mkdir -p /usr/src/app && cp -a /tmp/node_modules /usr/src/app/
-
-WORKDIR /usr/src/app
-ENV PATH /usr/src/app/node_modules/.bin:$PATH
-COPY . /usr/src/app
-RUN yarn build
-ENV NODE_ENV production
-ENV PORT 3000
+# FOR FRONT-END DEPLOYMENT... (REACT)
+FROM node:16-alpine
+WORKDIR /workdir
+ENV PATH /workdir/app/node_modules/.bin:$PATH
+COPY package.json ./
+COPY postcss.config.js ./
+COPY tailwind.config.js ./
+COPY tsconfig.json ./
+COPY next.config.js ./
+COPY app ./app
+WORKDIR /workdir/app
+RUN npm install --force
+RUN npm run build
 EXPOSE 3000
-CMD ["npm", "start"]
+CMD ["npm", "run", "start"]

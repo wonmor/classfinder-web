@@ -34,7 +34,7 @@ Speaking of which, if you found any bugs or errors in our app, feel free to cont
 
 ---
 
-## A Big Shoutout!
+## A Big Shoutout :D
 
 We want to thank the PeterPortal team under UC Irvine's computer science faculty for developing such a wholesome REST API.
 Under active development, it is being maintained by more than dozens of students. 

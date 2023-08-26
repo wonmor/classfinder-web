@@ -31,3 +31,16 @@ I have more than 30 years of experience in writing low-level hardware code, prim
 In the next coming years, I will continue maintaining the code base of this project while John is away studying in America. I also handle the business side of things within this project — e.g. communicating with the users if they are experiencing any problems.
 
 Speaking of which, if you found any bugs or errors in our app, feel free to contact me at **cascademusicbusiness@gmail.com**.
+
+---
+
+## Big Shoutout!
+
+We want to thank the PeterPortal team under UC Irvine's computer science faculty for developing such a wholesome REST API.
+Under active development, it is being maintained by more than dozens of students. 
+
+As ClassFinder team, we have developed a client-side search engine for all courses offered at UCI, as well as a scheduling app that synchronizes with iCloud. 
+
+Written almost exclusively in Swift, it offers a true native experience in both iPhones and iPads that student typically carry.
+
+Our first app, UC Irvine ClassFinder, uses our own in-house API with endpoints of **https://ucirvine.classfinder.org/api/get-calendar** as well as PeterPortal API, **https://api.peterportal.org/rest/v0/courses/all** for populating the course list.

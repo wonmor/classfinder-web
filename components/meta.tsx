@@ -37,6 +37,7 @@ const Meta = () => {
         content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta name="apple-itunes-app" content="app-id=6460809805" />
     </Head>
   )
 }

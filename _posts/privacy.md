@@ -4,7 +4,7 @@ excerpt: 'Here at ClassFinder, we take your privacy seriously.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2023-08-19T05:35:07.322Z'
 author:
-  name: The Seong Family
+  name: fulfill.school
   picture: '/assets/blog/authors/family.jpg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'

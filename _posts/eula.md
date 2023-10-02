@@ -4,7 +4,7 @@ excerpt: 'ClassFinder ("the Software") was created by the Seong Family ("the Aut
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2023-08-18T05:35:07.322Z'
 author:
-  name: The Seong Family
+  name: fulfill.school
   picture: '/assets/blog/authors/family.jpg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'

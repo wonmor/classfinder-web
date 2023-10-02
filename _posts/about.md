@@ -4,7 +4,7 @@ excerpt: 'A behind the scenes look at the development of our app.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2023-08-22T05:35:07.322Z'
 author:
-  name: The Seong Family
+  name: fulfill.school
   picture: '/assets/blog/authors/family.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
